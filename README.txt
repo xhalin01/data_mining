@@ -1,0 +1,1 @@
+Data mining of hotel properties using Rapid Miner and data from TripAdvisor.com.
